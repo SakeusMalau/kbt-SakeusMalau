@@ -206,7 +206,7 @@ int main() {
         if (strcmp(repeat_booking, "n") == 0 || strcmp(repeat_booking, "N") == 0) {
             break; // Keluar dari loop utama jika tidak ada pemesanan lain
         }
-        // Jika 'y', loop akan rlanjut ke iterasi berikutnya untuk pendaftaran penumpang baru
+        // Jika 'y', loop akanrlanjut ke iterasi berikutnya untuk pendaftaran penumpang baru
     }
 
     printf("Terima kasih telah menggunakan layanan kami!\n");
